@@ -1,2 +1,1 @@
-# ztestfolderlogic
-Folders with arbitrary hiererchy and name
+# Folders / pckages with arbitrary hierarchy and name
