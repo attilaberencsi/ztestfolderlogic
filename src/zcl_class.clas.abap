@@ -1,0 +1,15 @@
+"! <p class="shorttext synchronized" lang="en">A Class</p>
+CLASS zcl_class DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_class IMPLEMENTATION.
+ENDCLASS.
